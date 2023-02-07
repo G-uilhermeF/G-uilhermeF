@@ -1,6 +1,6 @@
 ## Ola eu sou o Guilherme Florêncio, estudante na area de programação
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=G-uilhermeF&show_icons=true&theme=radical)<br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=G-uilhermeF&show_icons=true&theme=transparent)<br>
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GuilhermeF)](https://github.com/anuraghazra/github-readme-stats)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=G-uilhermeF&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <div style="display: inline_block">
@@ -13,8 +13,7 @@
 ##
 
 <div> 
- <a href="https://instagram.com/g_uilhermef" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+ <a href="https://instagram.com/g_uilhermef" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
  <a href = "mailto:guilherme_abreu2207@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/guilherme-flor%C3%AAncio-8b49b7174/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
