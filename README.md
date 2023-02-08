@@ -1,8 +1,8 @@
 ## Ola eu sou o Guilherme Florêncio, estudante na area de programação
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GuilhermeF&theme=radical)](https://github.com/anuraghazra/github-readme-stats)<br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=G-uilhermeF&show_icons=true&theme=transparent)<br>
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GuilhermeF)](https://github.com/anuraghazra/github-readme-stats)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=G-uilhermeF&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=G-uilhermeF&langs_count=8&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=G-uilhermeF&show_icons=true&theme=radical)
 <div style="display: inline_block">
  <img align="center" alt="Guilherme-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Guilherme-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
