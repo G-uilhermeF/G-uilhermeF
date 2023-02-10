@@ -2,7 +2,7 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=G-uilhermeF&show_icons=true&theme=radical)<br>
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GuilhermeF&theme=radical)](https://github.com/anuraghazra/github-readme-stats)<br>
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=G_uilhermeF&theme=radical)](https://github.com/anuraghazra/github-readme-stats)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=G-uilhermeF&langs_count=8&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <div style="display: inline_block">
  <img align="center" alt="Guilherme-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
