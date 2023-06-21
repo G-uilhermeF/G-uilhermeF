@@ -1,8 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua área</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
+ Olá! Sou Guilherme, um estudante entusiasta pela Programção. Estou focado em aprimorar meus conhecimentos e habilidades nessa área, de Desenvolvimento Web, tanto na parte do FRONT-END quanto no BACK-END, com JavaScript. Estou ansioso para aprender com outros desenvolvedores talentosos e colaborar em projetos emocionantes. Vamos conectar e construir algo incrível juntos!
 </p>
 
 
@@ -21,7 +20,7 @@
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </div><br>
 
-  **💌  Aqui vai uma mensagem para entrar em contato com você: ⤵️**
+  **💌  Aqui estão as minhas redes sociais e canais para entrar em contato comigo: ⤵️**
 
   <div>
     <a href = "mailto:guilherme_abreu2207@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:guilherme_abreu2207@gmail.com" target="_blank"></a>
@@ -29,8 +28,6 @@
    <a href="https://www.linkedin.com/in/guilherme-flor%C3%AAncio-8b49b7174/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
    <a href="https://instagram.com/g_uilhermef" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   </div>
-
-![Snake animation](https://github.com/G-uilhermeF/G-uilhermeF/blob/output/github-contribution-grid-snake.svg)
 
 
 ##
